@@ -1,7 +1,7 @@
 ".source.js":
   "glamorous.text":
     "prefix": "gtext"
-    "body": "glamorous.text({})"
+    "body": "const ${1:Component} = glamorous.text({\n\n})"
     "description": "glamorous: text() 💄"
   "glamorous.view": {
     "prefix": "gview",
