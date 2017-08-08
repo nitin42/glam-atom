@@ -1,4 +1,6 @@
 '.source.js':
   'glamorous.text':
-    'prefix': 'ttext'
+    'prefix': 'gtext'
     'body': 'glamorous.text({})'
+    'description': 'glamorous: text()'
+    'rightLabelHTML': '<p>💄</p>'
