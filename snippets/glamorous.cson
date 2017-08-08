@@ -1,4 +1,4 @@
 '.source.js':
   'glamorous.text':
-    'prefix': 'text'
+    'prefix': 'ttext'
     'body': 'glamorous.text({})'
