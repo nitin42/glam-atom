@@ -2,5 +2,4 @@
   'glamorous.text':
     'prefix': 'gtext'
     'body': 'glamorous.text({})'
-    'description': 'glamorous: text()'
-    'rightLabelHTML': '<p>💄</p>'
+    'description': 'glamorous: text() 💄'
