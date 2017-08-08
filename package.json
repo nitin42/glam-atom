@@ -1,0 +1,22 @@
+{
+  "name": "glam-atom",
+  "main": "./lib/snippets",
+  "version": "1.0.0",
+  "description": "Glamorous snippets for Atom",
+  "author": {
+    "name": "Nitin Tulswani",
+    "email": "tulswani19@gmail.com",
+    "url": "nitintulswani.surge.sh"
+  },
+  "activationCommands": {
+    "atom-text-editor": [
+      "glamorous-snippets:toggle"
+    ]
+  },
+  "repository": "https://github.com/nitin42/glam-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {}
+}

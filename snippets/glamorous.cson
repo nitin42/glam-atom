@@ -1,0 +1,4 @@
+'.source.js':
+  'glamorous.text':
+    'prefix': 'text'
+    'body': 'glamorous.text({})'
