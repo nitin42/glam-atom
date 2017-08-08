@@ -1,7 +1,7 @@
 {
   "name": "glam-atom",
   "main": "./lib/snippets",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Glamorous snippets for Atom",
   "author": {
     "name": "Nitin Tulswani",
